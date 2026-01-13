@@ -18,6 +18,5 @@
   { "warframe": "Baruuk Systeme", "planet": "", "mission": "", "quest": "", "dojo": "", "syndicate": "" },
   { "warframe": "Baruuk Chassis", "planet": "", "mission": "", "quest": "", "dojo": "", "syndicate": "" },
   { "warframe": "Baruuk BP", "planet": "", "mission": "", "quest": "", "dojo": "", "syndicate": "" }
-
-  // ... so fortsetzen für alle Warframes, z.B. Caliban, Chroma, Citrine ...
 ]
+

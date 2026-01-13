@@ -1,32 +1,34 @@
 [
-  { "name": "Ash Neuroptik", "location": "" },
-  { "name": "Ash Systeme", "location": "" },
-  { "name": "Ash Chassis", "location": "" },
-  { "name": "Ash BP", "location": "" },
-
-  { "name": "Atlas Neuroptik", "location": "" },
-  { "name": "Atlas Systeme", "location": "" },
-  { "name": "Atlas Chassis", "location": "" },
-  { "name": "Atlas BP", "location": "" },
-
-  { "name": "Banshee Neuroptik", "location": "" },
-  { "name": "Banshee Systeme", "location": "" },
-  { "name": "Banshee Chassis", "location": "" },
-  { "name": "Banshee BP", "location": "" },
-
-  { "name": "Baruuk Neuroptik", "location": "" },
-  { "name": "Baruuk Systeme", "location": "" },
-  { "name": "Baruuk Chassis", "location": "" },
-  { "name": "Baruuk BP", "location": "" },
-
-  { "name": "Caliban Neuroptik", "location": "" },
-  { "name": "Caliban Systeme", "location": "" },
-  { "name": "Caliban Chassis", "location": "" },
-  { "name": "Caliban BP", "location": "" },
-
-  { "name": "Chroma Neuroptik", "location": "" },
-  { "name": "Chroma Systeme", "location": "" },
-  { "name": "Chroma Chassis", "location": "" },
-  { "name": "Chroma BP", "location": "" }
+  {
+    "warframe": "Ash Neuroptik",
+    "planet": "Earth",
+    "mission": "Exterminate",
+    "quest": "Vor's Quest",
+    "dojo": "Dojo Name",
+    "syndicate": "Cephalon Suda"
+  },
+  {
+    "warframe": "Ash Systeme",
+    "planet": "Earth",
+    "mission": "Exterminate",
+    "quest": "Vor's Quest",
+    "dojo": "Dojo Name",
+    "syndicate": "Cephalon Suda"
+  },
+  {
+    "warframe": "Ash Chassis",
+    "planet": "Earth",
+    "mission": "Exterminate",
+    "quest": "Vor's Quest",
+    "dojo": "Dojo Name",
+    "syndicate": "Cephalon Suda"
+  },
+  {
+    "warframe": "Ash BP",
+    "planet": "Earth",
+    "mission": "Exterminate",
+    "quest": "Vor's Quest",
+    "dojo": "Dojo Name",
+    "syndicate": "Cephalon Suda"
+  }
 ]
-

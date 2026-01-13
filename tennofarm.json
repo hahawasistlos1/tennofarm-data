@@ -1,34 +1,23 @@
 [
-  {
-    "warframe": "Ash Neuroptik",
-    "planet": "Earth",
-    "mission": "Exterminate",
-    "quest": "Vor's Quest",
-    "dojo": "Dojo Name",
-    "syndicate": "Cephalon Suda"
-  },
-  {
-    "warframe": "Ash Systeme",
-    "planet": "Earth",
-    "mission": "Exterminate",
-    "quest": "Vor's Quest",
-    "dojo": "Dojo Name",
-    "syndicate": "Cephalon Suda"
-  },
-  {
-    "warframe": "Ash Chassis",
-    "planet": "Earth",
-    "mission": "Exterminate",
-    "quest": "Vor's Quest",
-    "dojo": "Dojo Name",
-    "syndicate": "Cephalon Suda"
-  },
-  {
-    "warframe": "Ash BP",
-    "planet": "Earth",
-    "mission": "Exterminate",
-    "quest": "Vor's Quest",
-    "dojo": "Dojo Name",
-    "syndicate": "Cephalon Suda"
-  }
+  { "warframe": "Ash Neuroptik", "planet": "", "mission": "", "quest": "", "dojo": "", "syndicate": "" },
+  { "warframe": "Ash Systeme", "planet": "", "mission": "", "quest": "", "dojo": "", "syndicate": "" },
+  { "warframe": "Ash Chassis", "planet": "", "mission": "", "quest": "", "dojo": "", "syndicate": "" },
+  { "warframe": "Ash BP", "planet": "", "mission": "", "quest": "", "dojo": "", "syndicate": "" },
+
+  { "warframe": "Atlas Neuroptik", "planet": "", "mission": "", "quest": "", "dojo": "", "syndicate": "" },
+  { "warframe": "Atlas Systeme", "planet": "", "mission": "", "quest": "", "dojo": "", "syndicate": "" },
+  { "warframe": "Atlas Chassis", "planet": "", "mission": "", "quest": "", "dojo": "", "syndicate": "" },
+  { "warframe": "Atlas BP", "planet": "", "mission": "", "quest": "", "dojo": "", "syndicate": "" },
+
+  { "warframe": "Banshee Neuroptik", "planet": "", "mission": "", "quest": "", "dojo": "", "syndicate": "" },
+  { "warframe": "Banshee Systeme", "planet": "", "mission": "", "quest": "", "dojo": "", "syndicate": "" },
+  { "warframe": "Banshee Chassis", "planet": "", "mission": "", "quest": "", "dojo": "", "syndicate": "" },
+  { "warframe": "Banshee BP", "planet": "", "mission": "", "quest": "", "dojo": "", "syndicate": "" },
+
+  { "warframe": "Baruuk Neuroptik", "planet": "", "mission": "", "quest": "", "dojo": "", "syndicate": "" },
+  { "warframe": "Baruuk Systeme", "planet": "", "mission": "", "quest": "", "dojo": "", "syndicate": "" },
+  { "warframe": "Baruuk Chassis", "planet": "", "mission": "", "quest": "", "dojo": "", "syndicate": "" },
+  { "warframe": "Baruuk BP", "planet": "", "mission": "", "quest": "", "dojo": "", "syndicate": "" }
+
+  // ... so fortsetzen für alle Warframes, z.B. Caliban, Chroma, Citrine ...
 ]

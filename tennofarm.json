@@ -1,8 +1,5 @@
 [
-  {"name":"Rhino Neuroptik","location":"Fossa (Venus)"},
-  {"name":"Rhino Systeme","location":"Fossa (Venus)"},
-  {"name":"Rhino Chassis","location":"Fossa (Venus)"},
-  {"name":"Loki Neuroptik","location":"Cambrian Drift (Earth)"},
-  {"name":"Loki Systeme","location":"Cambrian Drift (Earth)"},
-  {"name":"Loki Chassis","location":"Cambrian Drift (Earth)"}
+  {"name":"Rhino Neuroptik","location":"Fossa (Venus)","found":false},
+  {"name":"Rhino System","location":"Fossa (Venus)","found":false},
+  {"name":"Rhino Chassis","location":"Fossa (Venus)","found":false}
 ]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "01. Ash",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"]
+  },
+  {
+    "name": "02. Atlas",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"]
+  },
+  {
+    "name": "03. Banshee",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"]
+  }
+]

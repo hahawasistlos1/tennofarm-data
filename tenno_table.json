@@ -16,5 +16,69 @@
     "quest": "",
     "dojo": "",
     "syndikate": ""
+      },
+  {
+    "name": "03. Banshee",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+      },
+  {
+    "name": "04. Baruuk",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+      },
+  {
+    "name": "05. Caliban",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+      },
+  {
+    "name": "06. Chroma",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+      },
+  {
+    "name": "07. Citrine",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+      },
+  {
+    "name": "08. Cyte-09",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+   },
+  {
+    "name": "09. Dagath",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
   }
 ]
+

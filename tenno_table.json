@@ -1,5 +1,5 @@
 {
-  "min_version": "1.0.7",
+  "min_version": "1.0.6",
   "max_version": "1.1.0",
   "data": [
   {
@@ -571,3 +571,4 @@
   },
 ]
 }
+

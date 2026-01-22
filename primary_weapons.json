@@ -3,30 +3,21 @@
     {
       "name": "Braton",
       "parts": [
-        "Blueprint",
-        "Lauf",
-        "Schaft",
-        "Verschluss"
+        "Blueprint"
       ],
       "source": "Markt"
     },
     {
       "name": "Boltor",
       "parts": [
-        "Blueprint",
-        "Lauf",
-        "Schaft",
-        "Verschluss"
-      ],
+        "Blueprint"
+     ],
       "source": "Markt"
     },
     {
       "name": "Soma",
       "parts": [
-        "Blueprint",
-        "Lauf",
-        "Schaft",
-        "Verschluss"
+        "Blueprint"
       ],
       "source": "Markt"
     }

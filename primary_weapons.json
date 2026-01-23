@@ -1,25 +1,1054 @@
 {
-  "data": [
-    {
-      "name": "Braton",
-      "parts": [
-        "Blueprint"
-      ],
-      "source": "Markt"
-    },
-    {
-      "name": "Boltor",
-      "parts": [
-        "Blueprint"
-     ],
-      "source": "Markt"
-    },
-    {
-      "name": "Soma",
-      "parts": [
-        "Blueprint"
-      ],
-      "source": "Markt"
-    }
-  ]
+“data“: [
+{
+“name“: “Acceltra“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Aeolak“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Apentis“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Alternox“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Ambassador“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Amprex“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Arbucep“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Arca Plasmor“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Argonak“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Astilla“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Attica“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “AX-52“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Basmu“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Battacor“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Baza“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Boar“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Boltor“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Braton“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Braton Vandal“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Bubonico“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Burston“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Buzlok“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Carimma Penta“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Cedo“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Cernos“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Cinta“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Coda Bassocyst“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Coda Hema“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Coda Sporonthrax“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Cado Synapse“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Convectrix“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Corinth“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Cortege“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Corvas“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Cyngas“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Daikyu“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Dera“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Dex Sybaris“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Drakgoon“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Dread“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Dual-Decurion“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “EFV-5 Jupiter“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Evensong“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Exergis“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Felarx“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Ferrox“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Fluctus“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Flux-Gewehr“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Fulmin“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Glaxion“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Glaxion Vandal“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Gorgon“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Grakata“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Grattler“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Grinlok“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Harpak“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Hek“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Hema“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Higasa“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Hind“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Ignis“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Ignis Wraith“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Imperator“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Imperator Vandal“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Javlok“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Karsak“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Kohm“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Komorex“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Lanka“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Lakspur“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Latron“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Lenz“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Mandonel“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Mausolon“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Miter“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “MK1-Braton“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “MK1-Paris“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “MK1-Strun“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Morgha“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Mutalist Cernos“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Mutalist Quanta“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Nagantaka“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Nataruk“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Orgis“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Opticor“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Panthera“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Paracyst“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Paris“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Penta“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Perigale“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Phaedra“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Phage“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Phantasma“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Phenmor“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Prisma Dual-Decurion“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Prisma Grakata“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Prisma Grinlok“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Prisma Tetra“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Proboscis Cernos“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Purgator 1“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Quanta“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Quartakk“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Quellor“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Rakta Cernos“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Rauta“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Reconifex“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Rubico“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Sancti Tigris“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Scourge“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Secura Penta“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Shedu“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Simulor“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Sirocco“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Sobek“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Soma“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Sporothix“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Stahlta“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Steflor“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Stradavar“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Strun“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Supra“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Supra Vandal“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Sybaris“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Synapse“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Synoid Simulor“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Telor Boltor“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Tenet Arca Plasmor“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Tenet Envoy“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Tenet Ferrox“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Tenet Flux-Gewehr“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Tenet Glaxion“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Tenet Tetra“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Tenora“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Tetra“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Thornbak“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Tiberon“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Tigris“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Tonkor“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Torid“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Trumna“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Vaykor Hek“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Vectis“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Veldt“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Velocitus“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Vinquibus“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Vulkar“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Vulkar Wraith“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Zarr“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Zenith“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+{
+“name“: “Zhuge“,
+“parts“: [
+“Blaupause“
+],
+“source“: “Markt“
+},
+]
 }

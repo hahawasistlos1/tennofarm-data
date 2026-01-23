@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "name": "Skana",
+      "parts": [
+        "Blueprint",
+        "Klinge",
+        "Griff"
+      ],
+      "source": "Markt"
+    },
+    {
+      "name": "Cronus",
+      "parts": [
+        "Blueprint",
+        "Klinge",
+        "Griff"
+      ],
+      "source": "Captain Vor"
+    },
+    {
+      "name": "Dual Zoren",
+      "parts": [
+        "Blueprint",
+        "Klinge",
+        "Klinge"
+      ],
+      "source": "Markt"
+    },
+    {
+      "name": "Orthos",
+      "parts": [
+        "Blueprint",
+        "Klinge",
+        "Stange"
+      ],
+      "source": "Clan-Dojo"
+    }
+  ]
+}

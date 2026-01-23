@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "name": "Lato",
+      "parts": [
+        "Blueprint",
+        "Lauf",
+        "Gehäuse"
+      ],
+      "source": "Markt"
+    },
+    {
+      "name": "Lex",
+      "parts": [
+        "Blueprint",
+        "Lauf",
+        "Gehäuse"
+      ],
+      "source": "Markt"
+    },
+    {
+      "name": "Vasto",
+      "parts": [
+        "Blueprint",
+        "Lauf",
+        "Gehäuse"
+      ],
+      "source": "Markt"
+    },
+    {
+      "name": "Aklato",
+      "parts": [
+        "Blueprint",
+        "Link",
+        "Link"
+      ],
+      "source": "Markt"
+    }
+  ]
+}

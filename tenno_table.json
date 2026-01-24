@@ -568,7 +568,8 @@
     "quest": "",
     "dojo": "",
     "syndikate": ""
-       {
+     }, 
+        {
     "name": "64. Excalibur Umbra",
     "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
     "planeten": "",
@@ -579,6 +580,7 @@
       }
 ]
 }
+
 
 
 

@@ -1,1 +1,243 @@
+{
+"data": [
+{
+"name": "Acceltra Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Alternox Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Astiila Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Baza Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Boar Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Boltor Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Braton Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Burston Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Cedo Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Cernos Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Corinth Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Corvas Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Daikyu Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Fulmin Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Gotva Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Lakspur Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Latron Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Nagantaka Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Panthera Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Paris Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Phantasma Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Rubico Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Scourge Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Soma Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Stradavar Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Strun Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Sybaris Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Tenora Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Tiberon Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Tigris Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Trumna Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Vadarya Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Vectis Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+},
+{
+"name": "Zhuge Prime",
+"parts": [
+"Blaupause"
+],
+"source": "Relikt"
+}
+]
+}
 

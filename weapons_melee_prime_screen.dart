@@ -1,268 +1,203 @@
 {
-  "min_version": "1.0.6",
-  "max_version": "1.1.0",
-  "data": [
-  {
-"name": "Ankyros Prime",
+"data": [
+{
+"name": "Afuris Prime",
 "parts": [
 "Blaupause"
 ],
 "source": "Relikt"
 },
 {
-"name": "Bo Prime",
+"name": "Akarius Prime",
 "parts": [
 "Blaupause"
 ],
 "source": "Relikt"
 },
 {
-"name": "Cobra & Crane Prime",
+"name": "Akbolto Prime",
 "parts": [
 "Blaupause"
 ],
 "source": "Relikt"
 },
 {
-"name": "Dakra Prime",
+"name": "Akbronco Prime",
 "parts": [
 "Blaupause"
 ],
 "source": "Relikt"
 },
 {
-"name": "Destreza Prime",
+"name": "Akjagara Prime",
 "parts": [
 "Blaupause"
 ],
 "source": "Relikt"
 },
 {
-"name": "Dual-Kamas Prime",
+"name": "Aklex Prime",
 "parts": [
 "Blaupause"
 ],
 "source": "Relikt"
 },
 {
-"name": "Dual-Kamas Prime",
+"name": "Akmagnus Prime",
 "parts": [
 "Blaupause"
 ],
 "source": "Relikt"
 },
 {
-"name": "Dual-Keres Prime",
+"name": "Aksomati Prime",
 "parts": [
 "Blaupause"
 ],
 "source": "Relikt"
 },
 {
-"name": "Dual-Zoren Prime",
+"name": "Akstiletto Prime",
 "parts": [
 "Blaupause"
 ],
 "source": "Relikt"
 },
 {
-"name": "Fang Prime",
+"name": "Akvesto Prime",
 "parts": [
 "Blaupause"
 ],
 "source": "Relikt"
 },
 {
-"name": "Fragor Prime",
+"name": "Ballistica Prime",
 "parts": [
 "Blaupause"
 ],
 "source": "Relikt"
 },
 {
-"name": "Galariak Prime",
+"name": "Bronco Prime",
 "parts": [
 "Blaupause"
 ],
 "source": "Relikt"
 },
 {
-"name": "Galatine Prime",
+"name": "Epitaph Prime",
 "parts": [
 "Blaupause"
 ],
 "source": "Relikt"
 },
 {
-"name": "Glaive Prime",
+"name": "Euphona Prime",
 "parts": [
 "Blaupause"
 ],
 "source": "Relikt"
 },
 {
-"name": "Gram Prime",
+"name": "Hikou Prime",
 "parts": [
 "Blaupause"
 ],
 "source": "Relikt"
 },
 {
-"name": "Guandao Prime",
+"name": "Hystrix Prime",
 "parts": [
 "Blaupause"
 ],
 "source": "Relikt"
 },
 {
-"name": "Gunsen Prime",
+"name": "Knell Prime",
 "parts": [
 "Blaupause"
 ],
 "source": "Relikt"
 },
 {
-"name": "Karyst Prime",
+"name": "Kompressa Prime",
 "parts": [
 "Blaupause"
 ],
 "source": "Relikt"
 },
 {
-"name": "Kestrel Prime",
+"name": "Lex Prime",
 "parts": [
 "Blaupause"
 ],
 "source": "Relikt"
 },
 {
-"name": "Kogake Prime",
+"name": "Magnus Prime",
 "parts": [
 "Blaupause"
 ],
 "source": "Relikt"
 },
 {
-"name": "Kronen Prime",
+"name": "Pandero Prime",
 "parts": [
 "Blaupause"
 ],
 "source": "Relikt"
 },
 {
-"name": "Masseter Prime",
+"name": "Pyrana Prime",
 "parts": [
 "Blaupause"
 ],
 "source": "Relikt"
 },
 {
-"name": "Nami Skyla Prime",
+"name": "Sagek Prime",
 "parts": [
 "Blaupause"
 ],
 "source": "Relikt"
 },
 {
-"name": "Nikana Prime",
+"name": "Sicarus Prime",
 "parts": [
 "Blaupause"
 ],
 "source": "Relikt"
 },
 {
-"name": "Ninkondi Prime",
+"name": "Spira Prime",
 "parts": [
 "Blaupause"
 ],
 "source": "Relikt"
 },
 {
-"name": "Okina Prime",
+"name": "Vasto Prime",
 "parts": [
 "Blaupause"
 ],
 "source": "Relikt"
 },
 {
-"name": "Orthos Prime",
+"name": "Velox Prime",
 "parts": [
 "Blaupause"
 ],
 "source": "Relikt"
 },
 {
-"name": "Quassus Prime",
+"name": "Zakti Prime",
 "parts": [
 "Blaupause"
 ],
 "source": "Relikt"
 },
 {
-"name": "Reaper Prime",
-"parts": [
-"Blaupause"
-],
-"source": "Relikt"
-},
-{
-"name": "Redeemer Prime",
-"parts": [
-"Blaupause"
-],
-"source": "Relikt"
-},
-{
-"name": "Scindo Prime",
-"parts": [
-"Blaupause"
-],
-"source": "Relikt"
-},
-{
-"name": "Silva &  gis Prime",
-"parts": [
-"Blaupause"
-],
-"source": "Relikt"
-},
-{
-"name": "Tatsu Prime",
-"parts": [
-"Blaupause"
-],
-"source": "Relikt"
-},
-{
-"name": "Tekko Prime",
-"parts": [
-"Blaupause"
-],
-"source": "Relikt"
-},
-{
-"name": "Tipedo Prime",
-"parts": [
-"Blaupause"
-],
-"source": "Relikt"
-},
-{
-"name": "Venato Prime",
-"parts": [
-"Blaupause"
-],
-"source": "Relikt"
-},
-{
-"name": "Venka Prime",
-"parts": [
-"Blaupause"
-],
-"source": "Relikt"
-},
-{
-"name": "Volnus Prime",
+"name": "Zylok Prime",
 "parts": [
 "Blaupause"
 ],

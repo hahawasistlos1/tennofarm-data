@@ -7,12 +7,7 @@
 "parts": [
 "Blaupause"
 ],
-"Markt": "",
-"Planeten": "",
-"Mission": "",
-"Quest" : "",
-"Dojo": "",
-"Syndikate": ""    
+"source": "Markt"   
 },
 {
 "name": "Aeolak",

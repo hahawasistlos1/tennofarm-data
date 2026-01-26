@@ -5,7 +5,12 @@
   {
 "name": "Acceltra",
 "parts": ["Blaupause"],
-"Markt"   
+"Markt": ""
+"Planeten": ""
+"Mission": ""
+"Quest": ""
+"Dojo": ""
+"Syndikate": ""    
 },
 {
 "name": "Aeolak",

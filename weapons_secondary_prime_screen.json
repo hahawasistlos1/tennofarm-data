@@ -4,9 +4,7 @@
   "data": [
   {
 "name": "Afuris Prime",
-"parts": [
-"Blaupause"
-],
+"parts": ["Blaupause", "Lauf", "Schaft", "Gehäuse"],
       "lith": "A1",
       "meso": "M2",
       "neo": "N3",
@@ -14,9 +12,7 @@
 },
 {
 "name": "Akarius Prime",
-"parts": [
-"Blaupause"
-],
+"parts": ["Blaupause", "Lauf", "Schaft", "Gehäuse"],
       "lith": "A1",
       "meso": "M2",
       "neo": "N3",
@@ -24,9 +20,7 @@
 },
 {
 "name": "Akbolto Prime",
-"parts": [
-"Blaupause"
-],
+"parts": ["Blaupause", "Lauf", "Schaft", "Gehäuse"],
       "lith": "A1",
       "meso": "M2",
       "neo": "N3",
@@ -34,9 +28,7 @@
 },
 {
 "name": "Akbronco Prime",
-"parts": [
-"Blaupause"
-],
+"parts": ["Blaupause", "Lauf", "Schaft", "Gehäuse"],
       "lith": "A1",
       "meso": "M2",
       "neo": "N3",
@@ -44,9 +36,7 @@
 },
 {
 "name": "Akjagara Prime",
-"parts": [
-"Blaupause"
-],
+"parts":["Blaupause", "Lauf", "Schaft", "Gehäuse"],
       "lith": "A1",
       "meso": "M2",
       "neo": "N3",
@@ -54,9 +44,7 @@
 },
 {
 "name": "Aklex Prime",
-"parts": [
-"Blaupause"
-],
+"parts": ["Blaupause", "Lauf", "Schaft", "Gehäuse"],
       "lith": "A1",
       "meso": "M2",
       "neo": "N3",
@@ -64,9 +52,7 @@
 },
 {
 "name": "Akmagnus Prime",
-"parts": [
-"Blaupause"
-],
+"parts": ["Blaupause", "Lauf", "Schaft", "Gehäuse"],
       "lith": "A1",
       "meso": "M2",
       "neo": "N3",
@@ -74,9 +60,7 @@
 },
 {
 "name": "Aksomati Prime",
-"parts": [
-"Blaupause"
-],
+"parts": ["Blaupause", "Lauf", "Schaft", "Gehäuse"],
       "lith": "A1",
       "meso": "M2",
       "neo": "N3",
@@ -84,9 +68,7 @@
 },
 {
 "name": "Akstiletto Prime",
-"parts": [
-"Blaupause"
-],
+"parts": ["Blaupause", "Lauf", "Schaft", "Gehäuse"],
       "lith": "A1",
       "meso": "M2",
       "neo": "N3",
@@ -94,9 +76,7 @@
 },
 {
 "name": "Akvesto Prime",
-"parts": [
-"Blaupause"
-],
+"parts": ["Blaupause", "Lauf", "Schaft", "Gehäuse"],
       "lith": "A1",
       "meso": "M2",
       "neo": "N3",
@@ -104,9 +84,7 @@
 },
 {
 "name": "Ballistica Prime",
-"parts": [
-"Blaupause"
-],
+"parts": ["Blaupause", "Lauf", "Schaft", "Gehäuse"],
       "lith": "A1",
       "meso": "M2",
       "neo": "N3",
@@ -114,9 +92,7 @@
 },
 {
 "name": "Bronco Prime",
-"parts": [
-"Blaupause"
-],
+"parts": ["Blaupause", "Lauf", "Schaft", "Gehäuse"],
       "lith": "A1",
       "meso": "M2",
       "neo": "N3",
@@ -124,9 +100,7 @@
 },
 {
 "name": "Epitaph Prime",
-"parts": [
-"Blaupause"
-],
+"parts": ["Blaupause", "Lauf", "Schaft", "Gehäuse"],
       "lith": "A1",
       "meso": "M2",
       "neo": "N3",
@@ -134,9 +108,7 @@
 },
 {
 "name": "Euphona Prime",
-"parts": [
-"Blaupause"
-],
+"parts": ["Blaupause", "Lauf", "Schaft", "Gehäuse"],
       "lith": "A1",
       "meso": "M2",
       "neo": "N3",
@@ -144,9 +116,7 @@
 },
 {
 "name": "Hikou Prime",
-"parts": [
-"Blaupause"
-],
+"parts": ["Blaupause", "Lauf", "Schaft", "Gehäuse"],
       "lith": "A1",
       "meso": "M2",
       "neo": "N3",
@@ -154,9 +124,7 @@
 },
 {
 "name": "Hystrix Prime",
-"parts": [
-"Blaupause"
-],
+"parts": ["Blaupause", "Lauf", "Schaft", "Gehäuse"],
       "lith": "A1",
       "meso": "M2",
       "neo": "N3",
@@ -164,9 +132,7 @@
 },
 {
 "name": "Knell Prime",
-"parts": [
-"Blaupause"
-],
+"parts": ["Blaupause", "Lauf", "Schaft", "Gehäuse"],
       "lith": "A1",
       "meso": "M2",
       "neo": "N3",
@@ -174,9 +140,7 @@
 },
 {
 "name": "Kompressa Prime",
-"parts": [
-"Blaupause"
-],
+"parts": ["Blaupause", "Lauf", "Schaft", "Gehäuse"],
       "lith": "A1",
       "meso": "M2",
       "neo": "N3",
@@ -184,9 +148,7 @@
 },
 {
 "name": "Lex Prime",
-"parts": [
-"Blaupause"
-],
+"parts": ["Blaupause", "Lauf", "Schaft", "Gehäuse"],
       "lith": "A1",
       "meso": "M2",
       "neo": "N3",
@@ -194,9 +156,7 @@
 },
 {
 "name": "Magnus Prime",
-"parts": [
-"Blaupause"
-],
+"parts": ["Blaupause", "Lauf", "Schaft", "Gehäuse"],
       "lith": "A1",
       "meso": "M2",
       "neo": "N3",
@@ -204,9 +164,7 @@
 },
 {
 "name": "Pandero Prime",
-"parts": [
-"Blaupause"
-],
+"parts": ["Blaupause", "Lauf", "Schaft", "Gehäuse"],
       "lith": "A1",
       "meso": "M2",
       "neo": "N3",
@@ -214,9 +172,7 @@
 },
 {
 "name": "Pyrana Prime",
-"parts": [
-"Blaupause"
-],
+"parts": ["Blaupause", "Lauf", "Schaft", "Gehäuse"],
       "lith": "A1",
       "meso": "M2",
       "neo": "N3",
@@ -224,9 +180,7 @@
 },
 {
 "name": "Sagek Prime",
-"parts": [
-"Blaupause"
-],
+"parts": ["Blaupause", "Lauf", "Schaft", "Gehäuse"],
       "lith": "A1",
       "meso": "M2",
       "neo": "N3",
@@ -234,9 +188,7 @@
 },
 {
 "name": "Sicarus Prime",
-"parts": [
-"Blaupause"
-],
+"parts": ["Blaupause", "Lauf", "Schaft", "Gehäuse"],
       "lith": "A1",
       "meso": "M2",
       "neo": "N3",
@@ -244,9 +196,7 @@
 },
 {
 "name": "Spira Prime",
-"parts": [
-"Blaupause"
-],
+"parts": ["Blaupause", "Lauf", "Schaft", "Gehäuse"],
       "lith": "A1",
       "meso": "M2",
       "neo": "N3",
@@ -254,9 +204,7 @@
 },
 {
 "name": "Vasto Prime",
-"parts": [
-"Blaupause"
-],
+"parts": ["Blaupause", "Lauf", "Schaft", "Gehäuse"],
       "lith": "A1",
       "meso": "M2",
       "neo": "N3",
@@ -264,9 +212,7 @@
 },
 {
 "name": "Velox Prime",
-"parts": [
-"Blaupause"
-],
+"parts": ["Blaupause", "Lauf", "Schaft", "Gehäuse"],
       "lith": "A1",
       "meso": "M2",
       "neo": "N3",
@@ -274,9 +220,7 @@
 },
 {
 "name": "Zakti Prime",
-"parts": [
-"Blaupause"
-],
+"parts": ["Blaupause", "Lauf", "Schaft", "Gehäuse"],
       "lith": "A1",
       "meso": "M2",
       "neo": "N3",
@@ -284,9 +228,7 @@
 },
 {
 "name": "Zylok Prime",
-"parts": [
-"Blaupause"
-],
+"parts": ["Blaupause", "Lauf", "Schaft", "Gehäuse"],
       "lith": "A1",
       "meso": "M2",
       "neo": "N3",

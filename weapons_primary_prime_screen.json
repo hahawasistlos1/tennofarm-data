@@ -4,8 +4,8 @@
   "data": [
   {
 "name": "Acceltra Prime",
-"parts": [
-"Blaupause"
+"parts": [ 
+"Blaupause", "Lauf", "Schaft", "Gehäuse"
 ],
 "lith": "A1",
 "meso": "M2",

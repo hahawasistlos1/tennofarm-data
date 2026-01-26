@@ -7,7 +7,10 @@
 "parts": [
 "Blaupause"
 ],
-"source": "Relikt"
+      "lith": "A1",
+      "meso": "M2",
+      "neo": "N3",
+      "axi": "A4"
 },
 {
 "name": "Alternox Prime",

@@ -3,6 +3,7 @@
   "max_version": "1.1.0",
   "data": [
     }
+    {
 "name": "Afuris Prime",
 "parts": [
 "Blaupause"

@@ -1,0 +1,381 @@
+{
+  "min_version": "1.0.6",
+  "max_version": "1.1.0",
+  "data": [
+  {
+    "name": "01. Ash",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+  {
+    "name": "02. Atlas",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+      },
+  {
+    "name": "03. Banshee",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+      },
+  {
+    "name": "04. Baruuk",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+      },
+  {
+    "name": "05. Caliban",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+      },
+  {
+    "name": "06. Chroma",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+      },
+  {
+    "name": "07. Citrine",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+      },
+  {
+    "name": "08. Cyte-09",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+   },
+  {
+    "name": "09. Dagath",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+    {
+    "name": "10. Dante",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "11. Ember",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "12. Equinox",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "13. Excalibur",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+    {
+    "name": "14. Frost",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "15. Gara",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "16. Garuda",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "17. Gauss",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "18. Grendel",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "19. Gyre",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "20. Harrow",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "21. Hildryn",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "22. Hydroid",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "23. Inaros",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "24. Ivara",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "25. Jade",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "26. Khora",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "27. Koumei",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "28. Kullervo",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "29. Lavos",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "30. Limbo",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "31. Loki",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "32. Mag",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "33. Mesa",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "34. Mirage",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "35. Nekros",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "36. Nezha",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "37. Nidus",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "38. Nokko",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "39. Nova",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "40. NYX",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "41. Oberon",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
+  },
+      {
+    "name": "42. Octavia",
+    "parts": ["Neuroptik", "Systeme", "Chassis", "BP"],
+    "planeten": "",
+    "mission": "",
+    "quest": "",
+    "dojo": "",
+    "syndikate": ""
